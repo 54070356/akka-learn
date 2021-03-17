@@ -1,2 +1,2 @@
 # akka-learn
-akka学些
+akka学习
